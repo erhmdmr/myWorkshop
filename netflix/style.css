@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@900&family=Lobster&family=Roboto:wght@100&display=swap');
+body{
+ background-image: url(./img/background_image.jpg);
+  color: white;
+  height: 100vh;
+  background-size:100% 100%  ;
+  background-attachment: fixed;
+  text-align: center;
+
+  
+}
+#image{
+  background-color: rgba(0, 0, 0, 0.537);
+  height: 110vh;
+  width: 90%;
+  margin: auto;
+  
+  
+ 
+}
+h1{
+ 
+  font-family: 'Inter', sans-serif;
+ 
+  color: white;
+  font-size:  80px;
+  font-weight: 900;
+                                              
+}
+span{
+  color: red;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px ;
+  font-weight: 900;
+}
+ .img{
+  
+    
+    justify-content: center; 
+    /* margin 20px;
+    height: 90%; */
+    background-color: rgba(0, 0, 0, 0.199);
+    text-align: center;
+    padding: 1%;
+    
+ }
+ #color{
+  background-color: rgba(0, 0, 0, 0.811);
+  height: 70vh;
+  width: 30vh;
+  margin: auto;
+  padding: 2%;
+  text-align: start;
+ }
+ #name{
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 12px;
+
+ }
+#age{
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 12px
+ }
+ #email{
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 12px
+ }
+ select{
+  width: 90%;
+  padding: 2px;
+  border: 1px solid #ccc;
+  font-size: 12px
+ 
+ }
+ #feedback{
+  width: 60%;
+  padding: 40px;
+  border: 1px solid #ccc;
+  font-size: 12px
+ }
+ button{
+  color: white;
+  background-color: red;
+  text-decoration: none;
+  padding: 5px;
+width: 120px;
+height: 30px;
+  border-radius: 20px;
+  text-align: center;
+ margin-left: 70px;
+   
+ }
+ button:hover{
+  background-color: white;
+  color: red;
+  border: 2px solid red;
+ }
+ 
+  
+ 
+
